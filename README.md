@@ -7,4 +7,4 @@ Assembly (AVR, RISC-V) -> Medium knowledge <br>
 C/C++ -> Basic knowledge <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galliarddev&layout=compact&exclude_repo=galliarddev.github.io)](https://github.com/galliarddev?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallardo7761&layout=compact)](https://github.com/gallardo7761?tab=repositories)

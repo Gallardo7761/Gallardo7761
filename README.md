@@ -1,3 +1,3 @@
-[![Skills](https://skillicons.dev/icons?i=py,java,mysql,git,gradle,maven,html,css,bootstrap,js,eclipse,visualstudio,vscode,github,intellij,debian,arduino,windows,c,c++,photoshop,obsidian,sqlite,vite,react&perline=6)](https://gallardo.dev)
+[![Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,gradle,maven,vite,mysql,sqlite,html,css,bootstrap,react,eclipse,idea,visualstudio,vscode,git,github,debian,windows,arduino,photoshop,obsidian,bots&perline=6)](https://gallardo.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gallardo7761&hide_progress=true)](https://github.com/Gallardo7761/repositories)
